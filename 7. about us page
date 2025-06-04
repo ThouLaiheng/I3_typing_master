@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    header {
+      background-color: #1e90ff;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 960px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1, h2 {
+      color: #1e90ff;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>About Us</h1>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>Our Story</h2>
+      <p>
+        Founded in 2020, our company began with a simple mission: to make technology more accessible and empowering for everyone. From our humble beginnings, we've grown into a passionate team dedicated to building solutions that matter.
+      </p>
+    </section>
+
+    <section>
+      <h2>What We Do</h2>
+      <p>
+        We specialize in providing innovative software and digital solutions tailored to the unique needs of businesses and individuals. Whether it's web development, mobile applications, or user-centered design, our goal is to deliver excellence every step of the way.
+      </p>
+    </section>
+
+    <section>
+      <h2>Our Values</h2>
+      <ul>
+        <li>Integrity and transparency</li>
+        <li>Customer-first approach</li>
+        <li>Innovation through collaboration</li>
+        <li>Commitment to quality</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Meet the Team</h2>
+      <p>
+        Our team is made up of diverse professionals with backgrounds in engineering, design, marketing, and customer service. We believe in teamwork, creativity, and having fun while doing what we love.
+      </p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
