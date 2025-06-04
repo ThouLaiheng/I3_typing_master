@@ -39,15 +39,8 @@
     }
     .body button{
         background: #64a2ff;
-        
-
-    }
-
-  
-
-
-    
-  </style>
+  }
+</style>
 </head>
 <body>
 
@@ -63,14 +56,5 @@
   <section class="body">
     <button>Test page</button>
   </section>
-    
- 
-
-  
-    
-  
-
-  
-
-</body>
+  </body>
 </html>
